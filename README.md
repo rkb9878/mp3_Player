@@ -1,10 +1,10 @@
 # mp3_Player
 python3 tkinter project:-  MP3 player
 
-##Note
+## Note
 
 Before run the program first install pygame module
 
-###command to install pygame through cmd
+### command to install pygame through cmd
 
 pip install pygame
